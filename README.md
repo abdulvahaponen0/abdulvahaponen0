@@ -1,15 +1,16 @@
-# 👋 Merhaba, ben Abdulvahap Önen
+# 👋 Hi there, I'm Abdulvahap Önen
 
-🎯 Backend Developer | .NET Core, Web API, Entity Framework  
-📚 Temiz kod, yazılım mimarisi ve test otomasyonu ile ilgileniyorum  
-🚀 Açık kaynak projelere katkı sağlıyorum
+🎯 Backend Developer focused on building scalable .NET Core applications  
+💡 Passionate about clean code, RESTful API design, and system architecture  
+📚 Always learning — currently diving deeper into software testing and microservices
 
-## 🛠️ Kullandığım Teknolojiler
-- C#, ASP.NET Core, EF Core
-- RESTful API, JWT, Clean Architecture
-- MS SQL Server, Git, Postman
+## 🚀 Tech Stack
+- C#, ASP.NET Core, Entity Framework Core
+- REST APIs, JWT, SQL Server
+- Git, Postman, Visual Studio
 
-## 📂 Öne Çıkan Projeler
-- **Anket Uygulaması**
-- **Not Defteri API**
-- **Film & Dizi Takip Sistemi**
+## 📂 Featured Projects
+- Anket Uygulaması
+- Not Defteri API
+- Film ve Dizi Takip Sistemi
+- Diyarbakır Ulaşım Sistemi
