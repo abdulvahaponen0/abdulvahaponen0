@@ -1,93 +1,57 @@
-👋 Hello, I’m Abdulvahap Önen
-🎯 Backend Developer | .NET Core, RESTful APIs, EF Core
+# 👋 Hi, I’m Abdulvahap Önen
 
-I am a software developer who values clean code, software architecture, and test automation, delivering scalable and maintainable solutions.
+🎯 **Backend Developer | .NET Core, RESTful APIs, EF Core**
 
-🛠️ Technologies & Tools
-💻 C#
+Passionate about writing **clean code**, designing **scalable architectures**, and implementing **automated tests** to deliver maintainable and robust software solutions.
 
-⚙️ .NET
+---
 
-🌐 ASP.NET Core
+## 🛠️ Technologies & Tools  
+- 💻 C#  
+- ⚙️ .NET Core  
+- 🌐 ASP.NET Core Web API & MVC  
+- 🗄️ Entity Framework Core  
+- 🛢️ SQL Server  
+- 🔧 Git & GitHub  
+- 📬 Postman  
+- 🔒 JWT Authentication  
 
-🗄️ Entity Framework
+---
 
-🛢️ SQL Server
+## 🚀 Featured Projects
 
-🔧 Git
+### 🗳️ Survey Management System  
+A modern, modular survey platform for creating and analyzing questionnaires.  
+- **Tech:** ASP.NET Core Web API, EF Core, MS SQL Server  
+- **Features:** Survey creation, question management, vote collection, layered architecture, unit testing
 
-📬 Postman
+### 📝 Secure Notepad API  
+A JWT-secured personal note management API for safe and easy note keeping.  
+- **Tech:** ASP.NET Core Web API, JWT Auth, EF Core  
+- **Features:** User authentication, CRUD operations, Swagger documentation
 
-📂 Featured Projects
-🗳️ Survey Application
-[GitHub Link]
-A modern and modular survey management system.
+### 🎬 Movie & Series Tracker  
+A web app for tracking watched movies and series with user reviews and ratings.  
+- **Tech:** ASP.NET Core MVC, EF Core, SQL Server  
+- **Features:** User login, watchlists, comments, rating system, extendable layered architecture
 
-🎯 Purpose: Collect and analyze users' answers to various questions.
-🛠️ Technologies: ASP.NET Core Web API, Entity Framework Core, MS SQL Server.
-✨ Features:
+### 🚌 Diyarbakır Public Transport Guide  
+An application displaying public transportation routes and stops for Diyarbakır residents.  
+- **Tech:** ASP.NET Core, REST API, JavaScript frontend  
+- **Features:** Bus routes, stops info, user-friendly UI, scalable design
 
-📝 Create surveys, define questions and answer options
+---
 
-📊 Collect user votes and display results
+## 📈 GitHub Stats  
+![Abdulvahap's GitHub stats](https://github-readme-stats.vercel.app/api?username=avonen22&show_icons=true&theme=radical)
 
-🏗️ Maintainability through layered architecture and repository pattern
+---
 
-✅ Unit tests verifying critical workflows
+## 📫 Get in Touch  
+- 📧 [Email](mailto:abdulvahaponen0@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/abdulvahaponen)  
+- 🌐 [Personal Website](https://avonen.dev)
 
-📝 Notepad API
-[GitHub Link]
-A personal note management API secured with JWT authentication.
+---
 
-🎯 Purpose: Enable users to securely and easily manage their notes.
-🛠️ Technologies: ASP.NET Core Web API, JWT Authentication, EF Core.
-✨ Features:
-
-🔐 User authentication and authorization
-
-🔄 CRUD operations (Create, Read, Update, Delete)
-
-⚡ Performance and security-focused design
-
-📖 Documentation via Swagger/OpenAPI
-
-🎬 Movie & Series Tracking System
-[GitHub Link]
-A comprehensive web app for users to track watched movies and series.
-
-🎯 Purpose: Record viewing habits and allow user comments.
-🛠️ Technologies: ASP.NET Core MVC, Entity Framework Core, SQL Server.
-✨ Features:
-
-👤 User registration and login
-
-🎞️ Movie/series list and watch status tracking
-
-💬 User comments and rating system
-
-🏗️ Easily extendable layered architecture
-
-🚌 Diyarbakır Transportation System
-[GitHub Link]
-An app showing public transportation routes and stops for Diyarbakır residents.
-
-🎯 Purpose: Facilitate transportation and route lookup.
-🛠️ Technologies: ASP.NET Core, REST API, JavaScript frontend (if any).
-✨ Features:
-
-🚍 Bus routes and stop information
-
-👍 User-friendly interface
-
-⚙️ Modular and scalable system design
-
-📈 GitHub Stats
-Abdulvahap's GitHub statistics
-
-📫 Get in Touch
-📧 Email
-
-💼 LinkedIn
-
-🌐 Personal Website
-
+*Thanks for visiting my profile! Feel free to explore my projects and reach out.*
