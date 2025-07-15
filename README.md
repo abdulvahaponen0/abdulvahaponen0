@@ -1,87 +1,93 @@
-# 👋 Merhaba, ben Abdulvahap Önen
+👋 Hello, I’m Abdulvahap Önen
+🎯 Backend Developer | .NET Core, RESTful APIs, EF Core
 
-### 🎯 Backend Developer | .NET Core, RESTful APIs, EF Core  
-Temiz kod, yazılım mimarisi ve test otomasyonuna önem veren, ölçeklenebilir ve sürdürülebilir çözümler üreten bir yazılım geliştiricisiyim.
+I am a software developer who values clean code, software architecture, and test automation, delivering scalable and maintainable solutions.
 
----
+🛠️ Technologies & Tools
+💻 C#
 
-## 🛠️ Teknolojiler & Araçlar
+⚙️ .NET
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)  
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dot-net&logoColor=white)  
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=asp.net&logoColor=white)  
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-239120?style=flat&logo=entity-framework&logoColor=white)  
-![SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+🌐 ASP.NET Core
 
----
+🗄️ Entity Framework
 
-## 📂 Öne Çıkan Projeler
+🛢️ SQL Server
 
-### 🗳️ Anket Uygulaması  
-[GitHub Linki](https://github.com/abdulvahaponen0/AnketUygulamasi)  
-Modern ve modüler bir yapıyla geliştirilmiş anket yönetim sistemi.  
-- **Amaç:** Kullanıcıların çeşitli sorulara verdikleri cevapları toplamak ve analiz etmek.  
-- **Teknolojiler:** ASP.NET Core Web API, Entity Framework Core, MS SQL Server.  
-- **Özellikler:**  
-  - Anket oluşturma, sorular ve cevap seçenekleri tanımlama  
-  - Kullanıcı oylarını alma ve sonuçları gösterme  
-  - Katmanlı mimari ve repository pattern ile sürdürülebilirlik  
-- **Testler:** Birim testler ile kritik iş akışlarının doğrulanması.
+🔧 Git
 
----
+📬 Postman
 
-### 📝 Not Defteri API  
-[GitHub Linki](https://github.com/abdulvahaponen0/NotDefteriAPI)  
-JWT tabanlı güvenlik ile kişisel not yönetim sistemi API’si.  
-- **Amaç:** Kullanıcıların notlarını güvenli ve kolay yönetebilmesi.  
-- **Teknolojiler:** ASP.NET Core Web API, JWT Authentication, EF Core.  
-- **Özellikler:**  
-  - Kullanıcı kimlik doğrulama ve yetkilendirme  
-  - CRUD operasyonları (Create, Read, Update, Delete)  
-  - Performans ve güvenlik odaklı tasarım  
-- **Dokümantasyon:** Swagger/OpenAPI ile API kolay kullanılır durumda.
+📂 Featured Projects
+🗳️ Survey Application
+[GitHub Link]
+A modern and modular survey management system.
 
----
+🎯 Purpose: Collect and analyze users' answers to various questions.
+🛠️ Technologies: ASP.NET Core Web API, Entity Framework Core, MS SQL Server.
+✨ Features:
 
-### 🎬 Film & Dizi Takip Sistemi  
-[GitHub Linki](https://github.com/abdulvahaponen0/Filmvedizitakip)  
-Kullanıcıların izledikleri film ve dizileri takip edebildikleri kapsamlı web uygulaması.  
-- **Amaç:** İzleme alışkanlıklarını kaydetmek ve yorum yapmak.  
-- **Teknolojiler:** ASP.NET Core MVC, Entity Framework Core, SQL Server.  
-- **Özellikler:**  
-  - Kullanıcı kaydı ve oturum açma  
-  - Film/dizi listesi, izlenme durumu takibi  
-  - Kullanıcı yorumları ve puanlama sistemi  
-- **Mimari:** Katmanlı mimari yapısı ile kolay genişletilebilir.
+📝 Create surveys, define questions and answer options
 
----
+📊 Collect user votes and display results
 
-### 🚌 Diyarbakır Ulaşım Sistemi  
-[GitHub Linki](https://github.com/abdulvahaponen0/DiyarbakirUlasim)  
-Diyarbakır halkına yönelik toplu taşıma güzergahlarını ve duraklarını gösteren uygulama.  
-- **Amaç:** Ulaşımı kolaylaştırmak, güzergah sorgulama.  
-- **Teknolojiler:** ASP.NET Core, REST API, JavaScript frontend (varsa).  
-- **Özellikler:**  
-  - Otobüs güzergahları ve durak bilgisi  
-  - Kullanıcı dostu arayüz  
-  - Modüler ve ölçeklenebilir sistem tasarımı.
+🏗️ Maintainability through layered architecture and repository pattern
 
----
+✅ Unit tests verifying critical workflows
 
-## 📈 GitHub İstatistiklerim
+📝 Notepad API
+[GitHub Link]
+A personal note management API secured with JWT authentication.
 
-![Abdulvahap's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdulvahaponen0&show_icons=true&count_private=true&theme=dark)
+🎯 Purpose: Enable users to securely and easily manage their notes.
+🛠️ Technologies: ASP.NET Core Web API, JWT Authentication, EF Core.
+✨ Features:
 
----
+🔐 User authentication and authorization
 
-## 📫 Bana Ulaş
+🔄 CRUD operations (Create, Read, Update, Delete)
 
-- 📧 [E-posta](mailto:abdulvahap.onen@example.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/abdulvahaponen0)  
-- 🌐 [Kişisel Web](https://abdulvahaponen0.dev)
+⚡ Performance and security-focused design
 
----
+📖 Documentation via Swagger/OpenAPI
 
-*README, GitHub profilinde profesyonel ve kapsamlı bir özet için hazırlanmıştır.*
+🎬 Movie & Series Tracking System
+[GitHub Link]
+A comprehensive web app for users to track watched movies and series.
+
+🎯 Purpose: Record viewing habits and allow user comments.
+🛠️ Technologies: ASP.NET Core MVC, Entity Framework Core, SQL Server.
+✨ Features:
+
+👤 User registration and login
+
+🎞️ Movie/series list and watch status tracking
+
+💬 User comments and rating system
+
+🏗️ Easily extendable layered architecture
+
+🚌 Diyarbakır Transportation System
+[GitHub Link]
+An app showing public transportation routes and stops for Diyarbakır residents.
+
+🎯 Purpose: Facilitate transportation and route lookup.
+🛠️ Technologies: ASP.NET Core, REST API, JavaScript frontend (if any).
+✨ Features:
+
+🚍 Bus routes and stop information
+
+👍 User-friendly interface
+
+⚙️ Modular and scalable system design
+
+📈 GitHub Stats
+Abdulvahap's GitHub statistics
+
+📫 Get in Touch
+📧 Email
+
+💼 LinkedIn
+
+🌐 Personal Website
+
